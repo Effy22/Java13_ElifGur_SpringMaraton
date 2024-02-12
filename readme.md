@@ -4,7 +4,7 @@
     İstenirse doktor controller üzerinden doktorun sahip olduğu tüm randevular bulunabiliyor. Böylelikle müsait zamanları takip edilebilir.
 
 ## KULLANIM
-- Tarayıcınızı açın ve http://localhost:8080 adresine gidin.
+- Tarayıcınızı açın ve http://localhost:9090 adresine gidin.
 - Giriş yapın veya kaydolun.
 - Randevu almak istediğiniz doktoru seçin ve uygun bir tarih ve saat seçeneği belirleyin.
 - Randevunuzu onaylayın.
